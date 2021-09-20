@@ -1,0 +1,15 @@
+@import "style";
+
+$theme-colors: (
+        primary: #FE8A02,
+        primary-hover: #EA7600,
+        secondary: #42413C,
+        success: #B09A81,
+        info: #1085C5,
+        light: #F5F4F0,
+        dark: #2A2626,
+        transparent-light: #D7CCC0,
+        transparent-dark: #908D8B
+);
+
+@include style;

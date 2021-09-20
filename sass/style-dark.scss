@@ -1,0 +1,23 @@
+@import "style";
+
+$theme-colors: (
+        primary: #3500D3,
+        primary-hover: #240090,
+        secondary: #282828,
+        success: #190061,
+        info: #1085C5,
+        light: #282828,
+        dark: #FFFFFF,
+        transparent-light: #D7CCC0,
+        transparent-dark: #240090
+);
+
+@include style;
+
+body {
+  background-color: map-get($theme-colors, light);
+}
+
+//F5F4F0
+//0C0032
+//190061
