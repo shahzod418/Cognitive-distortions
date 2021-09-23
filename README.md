@@ -7,3 +7,5 @@
 Был добавлен переключатель DARK, выполняющий переключение темы, с использованием анимаций и трансформаций в CSS.
 
 Стек технологий: HTML, CSS, Flex, CSS Animation, CSS Transform, JavaScript (DOM API), npm, Git.
+
+[Страница лендинга](https://shahzod418.github.io/project--cognitive-distortions/)
