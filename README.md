@@ -1,4 +1,4 @@
-# project--cognitive-distortions
+# Cognitive distortions
 Лендинг на тему "Когнитивные искажения в программировании". Основной задачей являлось сформировать аккуратную и поддерживаемую вёрстку используя подходы OOCSS и Atomic CSS.
 
 В дальнейшем был адаптирован под мобильные устройства.
@@ -8,4 +8,4 @@
 
 Стек технологий: HTML, CSS, Flex, CSS Animation, CSS Transform, JavaScript (DOM API), npm, Git.
 
-[Страница лендинга](https://shahzod418.github.io/project--cognitive-distortions/)
+[Страница лендинга](https://shahzod418.github.io/Cognitive-distortions/)
